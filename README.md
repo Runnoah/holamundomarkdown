@@ -40,5 +40,5 @@ public class HolaMundo{
 4. **Luego en la consola debería de aparecer de esta manera:**
 
 
-![Ejemplo](C:\Users\Usuario\Desktop\Imagenes\HolaMundo.png)
+![Ejemplo](https://github.com/Runnoah/holamundomarkdown/blob/main/Imagen/HolaMundo.png)
 

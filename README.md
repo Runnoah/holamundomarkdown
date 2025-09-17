@@ -27,18 +27,16 @@ Una vez instalados se hará lo siguiente:
 
 3. **Declara la clase y el *main* del archivo, para luego dentro de este último insertar la instrucción que nos imprimira el texto en la consola.**
 
-~~~
 ```JAVA
-public class HolaMundo{
 
-    public static void main(String[] args) {
+    public class HolaMundo{
 
-        System.out.println("¡Hola Mundo!"); 
+        public static void main(String[] args) {
+
+            System.out.println("¡Hola Mundo!"); 
+        }
     }
-}
 ```
-
-~~~
 
 4. **Luego en la consola debería de aparecer de esta manera:**
 
